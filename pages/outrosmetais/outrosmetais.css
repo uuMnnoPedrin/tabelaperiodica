@@ -1,0 +1,31 @@
+.titulo {font-size: 3em; text-align: center;}
+
+hr{color:#D691BE; height: 5px;}
+
+td {text-align: center;
+    border-radius: 5px;
+    width: 100px;
+    height: 115px;
+    background-color: #D691BE;}
+
+.sigla{font-size: 2em;}
+
+ul {list-style: none;
+    margin:0;
+    padding:0}
+
+table.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+p{text-align: center; 
+    color: white; 
+    background-color: #D691BE;
+    border-radius: 10px;}
+
+.divisao{color:#ffffff;
+        height:10px}
+
+.text{color:black; background-color: white;}
+
+a { color:black; text-decoration-color: rgb(185, 185, 185);}

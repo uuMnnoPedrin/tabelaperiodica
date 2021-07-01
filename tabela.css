@@ -1,0 +1,56 @@
+/* formatações gerais */
+
+.titulo {font-size: 3em;}
+
+td {text-align: center;
+border-radius: 5px;
+width: 100px;
+height: 115px;}
+
+ul {list-style: none;
+margin:0;
+padding:0}
+
+a { color:black; text-decoration: none}
+
+/* formatação divisão */
+.div{width: 20px;
+height: 20px;}
+
+/* formatação de classes */
+
+.gasesnobres{background: #F4958F}
+
+.metaisalcalinos{background: #42B87B}
+
+.metaisdetransicao{background: #FAAA55}
+
+.outrosmetais{background: #D691BE}
+
+.lantanideos{background: #FEC82A}
+
+.naometais{background: #5D95C6}
+
+.metaisterrosos{background: #97C04A}
+
+.semimetais{background: #F6AFCF}
+
+.halogenios{background: #00AFF0}
+
+.actinideos{background: #CE8F64}
+
+/* formatação gerais células */
+
+.numatomico{text-align: left; margin: 3px}
+
+.sigla{font-size: 2em;}
+
+.numlanta{text-align:right ; margin:3px}
+
+.numacti{text-align:left ; margin:3px; color: rgb(214, 214, 214)}
+
+.siglanta{font-size:2em; color: rgb(214, 214, 214);}
+
+.desclanta{color:rgb(214, 214, 214);}
+
+.fundolanta{background: rgb(214, 214, 214);}
